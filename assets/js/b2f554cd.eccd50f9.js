@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue=self.webpackChunkvue||[]).push([[477],{10:function(e){e.exports={blogPosts:[]}}}]);
